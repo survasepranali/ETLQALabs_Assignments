@@ -1,4 +1,4 @@
-#Assignments 1
+Assignments 1
 #1. Write a function to return the grade based on percentage
 #Solution:
 def getGrade(perc):
